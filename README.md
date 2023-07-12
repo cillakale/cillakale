@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Kaleb
-- 👀 I’m interested in data analysis and economics
+- I have a background in economics with a focus on data analysis and statistics
+- I love working with data and learning new skills. I self taught myself SQL and python.
+  
 
 
 <!---
